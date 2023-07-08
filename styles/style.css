@@ -144,6 +144,10 @@ body {
     margin-bottom: 25px;
 }
 
+.future>img {
+    margin-right: 10px;
+}
+
 .subscribe>h2 {
     font-size: 25px;
     font-weight: 600;
