@@ -99,7 +99,7 @@ body {
 /* Call me section */
 .call-me {
     margin-left: 230px;
-    margin-left: 230px;
+    margin-right: 230px;
     background-image: url('../images/gradient2.png'), url('../images/watch.png');
     background-repeat: no-repeat;
 }
@@ -122,4 +122,51 @@ body {
     border-radius: 5px;
     margin-left: 65px;
     margin-bottom: 130px;
+}
+
+/* Footer section */
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: #151414;
+    padding: 130px 230px;
+}
+
+.future>h2 {
+    font-size: 45px;
+    font-weight: 700;
+    color: #F8F8F8;
+}
+
+.future>p {
+    font-size: 16px;
+    color: white;
+    margin-bottom: 25px;
+}
+
+.subscribe>h2 {
+    font-size: 25px;
+    font-weight: 600;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.email {
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: #151414;
+    width: 200px;
+    height: 30px;
+    margin-bottom: 15px;
+    padding-left: 10px;
+}
+
+.subscribe-button {
+    color: #F15B22;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 20px 35px;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
 }
