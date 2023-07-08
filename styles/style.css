@@ -95,3 +95,31 @@ body {
 .plan>p {
     color: #737272;
 }
+
+/* Call me section */
+.call-me {
+    margin-left: 230px;
+    margin-left: 230px;
+    background-image: url('../images/gradient2.png'), url('../images/watch.png');
+    background-repeat: no-repeat;
+}
+
+.call-me-title {
+    font-size: 40px;
+    font-weight: 700;
+    color: white;
+    padding-top: 60px;
+    padding-left: 65px;
+}
+
+.call-me-button {
+    color: #F15B22;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 20px 35px;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    margin-left: 65px;
+    margin-bottom: 130px;
+}
