@@ -70,3 +70,28 @@ body {
     font-size: 16px;
     color: #444343;
 }
+
+.plan-title {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    color: #151414;
+    margin-bottom: 55px;
+}
+
+.plans-container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-left: 230px;
+    margin-right: 230px;
+}
+
+.plan {
+    margin-bottom: 135px;
+    width: 270px;
+}
+
+.plan>p {
+    color: #737272;
+}
